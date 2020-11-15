@@ -1,7 +1,7 @@
 # Video iframe
 How to present videos in markdown files and GitHub Pages
 
-### Embedded Video using iFrame 
+## Embedded Video using iFrame 
 
 This will only work when your ReadMe page has been converted to GitHub pages
 
@@ -9,12 +9,12 @@ This iFrame code generates embedded video below, remember when it's on the ReadM
 
 `<iframe width="560" height="315" src="https://www.youtube.com/embed/291ET6Py6H8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
 
-Below will only appear as embedded video when previewed on the GitHub pages:
+Below will only appear as embedded video when previewed on the GitHub pages otherwise it will just look like this on the ReadMe:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/291ET6Py6H8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Simulating a embedded video on a readme without GitHub pages
+## Simulating a embedded video on a readme without GitHub pages
 
 Use this process if you want to simulate an embedded video on a GitHub ReadMe, but do not wish to have it output as a GitHub page
 
