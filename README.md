@@ -1,7 +1,7 @@
 # Video iframe
 How to present videos in markdown files and GitHub Pages
 
-Here is the [link to the video]() which will walk you through the process documented below
+Here is the [link to the video](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=978cc27a-2e3a-457f-8a8d-ac7400b90e89) which will walk you through the process documented below
 
 ## Embedded Video using iFrame 
 
