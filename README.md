@@ -1,6 +1,8 @@
 # Video iframe
 How to present videos in markdown files and GitHub Pages
 
+Here is the [link to the video]() which will walk you through the process documented below
+
 ## Embedded Video using iFrame 
 
 This will only work when your ReadMe page has been converted to GitHub pages
